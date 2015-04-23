@@ -1,3 +1,5 @@
+import Tools.Wuerfel.*;
+
 /**
  * Ein Schmetterling mit Musterung, Fluegelfarbe und
  * Fluegelform

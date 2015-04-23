@@ -1,4 +1,5 @@
 import java.util.*;
+import Tools.Wuerfel.*;
 
 /**
  * Erzeugt eine ganze Schmetterlingspopulation
